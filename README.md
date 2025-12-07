@@ -41,6 +41,7 @@ Wavelet Sharpening • Wiener Deconvolution • Gamma & Curves • Histogram Tun
 ---
 
  **Lunar Features Identified**
+ 
  Tycho Crater  
  Mare Tranquillitatis *(Apollo 11 Landing Site)*  
  Copernicus Crater  
@@ -50,6 +51,7 @@ Wavelet Sharpening • Wiener Deconvolution • Gamma & Curves • Histogram Tun
 
 ---
  **Skills Gained**
+ 
 ✔ Telescope setup & observational planning  
 ✔ Smartphone astrophotography optimization  
 ✔ Planetary imaging, stacking, noise reduction  
@@ -59,6 +61,7 @@ Wavelet Sharpening • Wiener Deconvolution • Gamma & Curves • Histogram Tun
 ---
 
  **Project Team**
+ 
 Raj Nandini Singh • Ricky Samson • Shahithya Vel • Chinmay Kulkarni
 
 ---
