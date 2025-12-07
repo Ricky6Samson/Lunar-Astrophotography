@@ -1,15 +1,18 @@
  **Lunar Astrophotography Project**
+ 
  *Observational Astronomy Certificate – St. Joseph’s University, Bengaluru*  
  *Under the guidance of **Dr. Ajay Saxena**, Former Dean – Indian Institute of Astrophysics (IIA), Bengaluru*
 
 ---
 
 🔭 **About the Project**  
+
 Captured, processed, and analyzed high-resolution images of the Moon using a **12-inch Ritchey–Chrétien Cassegrain Telescope** and smartphone sensors. This project focused on both **observational astronomy & computational image processing** to study lunar craters, maria, rilles, and impact basins.
 
 ---
 
  **Equipment & Capture Setup**
+ 
 • 12-inch RC Cassegrain Telescope  
 • Smartphone cameras (Realme X7 Max, Samsung Galaxy M32) using telescope mount  
 • Moon filter + 44 mm eyepiece  
@@ -23,6 +26,7 @@ Captured, processed, and analyzed high-resolution images of the Moon using a **1
 ---
 
  **Processing Workflow**
+ 
 | Software Used | Purpose |
 |--------------|---------|
 | **PIPP** | Frame extraction, alignment, video preprocessing |
@@ -30,7 +34,8 @@ Captured, processed, and analyzed high-resolution images of the Moon using a **1
 | **RegiStax** | Wavelet sharpening, deconvolution, noise reduction |
 | **Canva** | Overlay + Presentation |
 
- *Techniques Applied:*  
+ *Techniques Applied:* 
+ 
 Wavelet Sharpening • Wiener Deconvolution • Gamma & Curves • Histogram Tuning • Noise Filtering
 
 ---
